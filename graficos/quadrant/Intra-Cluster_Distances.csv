@@ -1,0 +1,338 @@
+Cluster,Factor 1,Factor 2,Distance
+0,Adaptación,Automatización,2.297221290316119
+0,Adaptación,Capacitación,1.8891138172750503
+0,Adaptación,Clientes,5.180411991949225
+0,Adaptación,Colaboración,1.874995722666008
+0,Adaptación,Competencias,2.2692216862345815
+0,Adaptación,Comunicación,2.0403199042061644
+0,Adaptación,Conversiones,3.171050993480763
+0,Adaptación,Cultura organizacional,2.57089658681599
+0,Adaptación,Ejecución,1.842315956228489
+0,Adaptación,Innovación,1.732533069378455
+0,Adaptación,Inventarios,2.403314247253018
+0,Adaptación,Liderazgo,3.6192972678323048
+0,Adaptación,Marca,4.5394144418656035
+0,Adaptación,Mejorar eficiencia,2.0966339862230603
+0,Adaptación,Optimización,2.2986382545170887
+0,Adaptación,Partes interesadas,2.686373183978148
+0,Adaptación,Personalización,2.009152089598539
+0,Adaptación,Retención,1.8015388745066034
+0,Adaptación,Valores organizacionales,2.487487626303739
+0,Automatización,Capacitación,2.642542019721291
+0,Automatización,Clientes,6.204377275028814
+0,Automatización,Colaboración,2.806695000439809
+0,Automatización,Competencias,2.89725661668223
+0,Automatización,Comunicación,2.0800464266362426
+0,Automatización,Conversiones,3.236782275898142
+0,Automatización,Cultura organizacional,2.5570264850410753
+0,Automatización,Ejecución,2.4423292787410866
+0,Automatización,Innovación,1.9328478406127283
+0,Automatización,Inventarios,2.581398863141615
+0,Automatización,Liderazgo,4.5056991236505315
+0,Automatización,Marca,5.166576897393075
+0,Automatización,Mejorar eficiencia,2.4572291620516835
+0,Automatización,Optimización,1.7986035282485975
+0,Automatización,Partes interesadas,3.769605624613474
+0,Automatización,Personalización,1.650437556578031
+0,Automatización,Retención,2.4649785704623
+0,Automatización,Valores organizacionales,2.437237479058037
+0,Capacitación,Clientes,4.447927666021124
+0,Capacitación,Colaboración,1.6911514390599498
+0,Capacitación,Competencias,2.339588347558576
+0,Capacitación,Comunicación,1.6866628986617511
+0,Capacitación,Conversiones,5.786529376242223
+0,Capacitación,Cultura organizacional,2.3766769654417383
+0,Capacitación,Ejecución,1.8389908353891717
+0,Capacitación,Innovación,1.7917389118192648
+0,Capacitación,Inventarios,2.9242416710286605
+0,Capacitación,Liderazgo,2.520042718756151
+0,Capacitación,Marca,3.01648715350517
+0,Capacitación,Mejorar eficiencia,1.9583075154966256
+0,Capacitación,Optimización,2.2420746472745745
+0,Capacitación,Partes interesadas,2.7571236285687966
+0,Capacitación,Personalización,2.279931233626104
+0,Capacitación,Retención,1.6748224939379799
+0,Capacitación,Valores organizacionales,2.913531088090525
+0,Clientes,Colaboración,3.93822034972972
+0,Clientes,Competencias,3.6333538981163964
+0,Clientes,Comunicación,3.3944723055188013
+0,Clientes,Conversiones,3.3416381953523024
+0,Clientes,Cultura organizacional,4.826830691383644
+0,Clientes,Ejecución,4.978199964535303
+0,Clientes,Innovación,4.306568227130131
+0,Clientes,Inventarios,2.7555016138559627
+0,Clientes,Liderazgo,5.696988680026522
+0,Clientes,Marca,2.940578668242503
+0,Clientes,Mejorar eficiencia,9.216115040708962
+0,Clientes,Optimización,4.364299991157928
+0,Clientes,Partes interesadas,4.042416265389479
+0,Clientes,Personalización,3.552261961416254
+0,Clientes,Retención,3.9537255956287614
+0,Clientes,Valores organizacionales,3.6852752799289035
+0,Colaboración,Competencias,2.5485842996503085
+0,Colaboración,Comunicación,1.9423116352003116
+0,Colaboración,Conversiones,5.36710170604062
+0,Colaboración,Cultura organizacional,3.0818393218350937
+0,Colaboración,Ejecución,2.2532611448549487
+0,Colaboración,Innovación,2.02288448763168
+0,Colaboración,Inventarios,2.471325518919665
+0,Colaboración,Liderazgo,2.5707293771076447
+0,Colaboración,Marca,3.2153513735981067
+0,Colaboración,Mejorar eficiencia,2.6498116036946002
+0,Colaboración,Optimización,2.5292202714880214
+0,Colaboración,Partes interesadas,3.308463065062746
+0,Colaboración,Personalización,2.460182378732137
+0,Colaboración,Retención,1.9540558480885717
+0,Colaboración,Valores organizacionales,3.271452714749606
+0,Competencias,Comunicación,2.175776643472888
+0,Competencias,Conversiones,4.034276178640009
+0,Competencias,Cultura organizacional,2.6382892277331687
+0,Competencias,Ejecución,2.1575873771645053
+0,Competencias,Innovación,2.1238601242713036
+0,Competencias,Inventarios,1.9954129447226716
+0,Competencias,Liderazgo,3.6571067458259607
+0,Competencias,Marca,3.637161695769901
+0,Competencias,Mejorar eficiencia,2.306939287217586
+0,Competencias,Optimización,2.484017212252067
+0,Competencias,Partes interesadas,2.62537890781087
+0,Competencias,Personalización,2.753168807819814
+0,Competencias,Retención,2.468523121125591
+0,Competencias,Valores organizacionales,2.822786321567866
+0,Comunicación,Conversiones,4.9437013759161355
+0,Comunicación,Cultura organizacional,2.1964761055248623
+0,Comunicación,Ejecución,1.506430424230391
+0,Comunicación,Innovación,1.6244348794108887
+0,Comunicación,Inventarios,2.897689145065215
+0,Comunicación,Liderazgo,2.6198070512106786
+0,Comunicación,Marca,3.3196766263162187
+0,Comunicación,Mejorar eficiencia,2.4756344345499937
+0,Comunicación,Optimización,1.8747319133363927
+0,Comunicación,Partes interesadas,2.76175530096836
+0,Comunicación,Personalización,2.145550268204511
+0,Comunicación,Retención,1.5283232533282602
+0,Comunicación,Valores organizacionales,2.6611793149193033
+0,Conversiones,Cultura organizacional,5.054299093304231
+0,Conversiones,Ejecución,4.915436549996651
+0,Conversiones,Innovación,4.153576669791818
+0,Conversiones,Inventarios,4.595276322466531
+0,Conversiones,Liderazgo,10.884857258703123
+0,Conversiones,Marca,5.635698316560556
+0,Conversiones,Mejorar eficiencia,4.945891208297544
+0,Conversiones,Optimización,3.6380640013312404
+0,Conversiones,Partes interesadas,4.187373402616497
+0,Conversiones,Personalización,3.9817207165345336
+0,Conversiones,Retención,4.36417790256999
+0,Conversiones,Valores organizacionales,3.3447039890143864
+0,Cultura organizacional,Ejecución,2.6238935631220364
+0,Cultura organizacional,Innovación,2.0468990840065193
+0,Cultura organizacional,Inventarios,3.7390566225535253
+0,Cultura organizacional,Liderazgo,5.665148161469639
+0,Cultura organizacional,Marca,4.841374307368785
+0,Cultura organizacional,Mejorar eficiencia,2.69850288409242
+0,Cultura organizacional,Optimización,2.7190796459214486
+0,Cultura organizacional,Partes interesadas,3.7188050824760315
+0,Cultura organizacional,Personalización,2.184024459501449
+0,Cultura organizacional,Retención,2.743926866666008
+0,Cultura organizacional,Valores organizacionales,1.5464280218943278
+0,Ejecución,Innovación,1.6925100826633772
+0,Ejecución,Inventarios,2.7424521751306923
+0,Ejecución,Liderazgo,2.6639195617767073
+0,Ejecución,Marca,3.472413566678136
+0,Ejecución,Mejorar eficiencia,1.6623197006494683
+0,Ejecución,Optimización,1.8454890158339268
+0,Ejecución,Partes interesadas,2.467857147792857
+0,Ejecución,Personalización,2.1841914686704382
+0,Ejecución,Retención,1.426467185691507
+0,Ejecución,Valores organizacionales,3.1153694195711616
+0,Innovación,Inventarios,1.8563831456003996
+0,Innovación,Liderazgo,2.874782935920945
+0,Innovación,Marca,3.6310665045080777
+0,Innovación,Mejorar eficiencia,2.0384856717797937
+0,Innovación,Optimización,1.7620656963992876
+0,Innovación,Partes interesadas,2.6224032962560475
+0,Innovación,Personalización,1.7462765019287623
+0,Innovación,Retención,1.7703840246210845
+0,Innovación,Valores organizacionales,2.1339802423305283
+0,Inventarios,Liderazgo,3.5153042284891503
+0,Inventarios,Marca,5.399097508456876
+0,Inventarios,Mejorar eficiencia,2.288288780579604
+0,Inventarios,Optimización,3.005199235092649
+0,Inventarios,Partes interesadas,3.018795291174428
+0,Inventarios,Personalización,2.9284152122619305
+0,Inventarios,Retención,3.035469767783527
+0,Inventarios,Valores organizacionales,3.2398307382829095
+0,Liderazgo,Marca,3.986705135713423
+0,Liderazgo,Mejorar eficiencia,4.850713707335972
+0,Liderazgo,Optimización,3.030358495046394
+0,Liderazgo,Partes interesadas,4.208177355486245
+0,Liderazgo,Personalización,3.274406888671017
+0,Liderazgo,Retención,2.8145360881787402
+0,Liderazgo,Valores organizacionales,7.015958499202285
+0,Marca,Mejorar eficiencia,4.513411172525097
+0,Marca,Optimización,4.044048422465239
+0,Marca,Partes interesadas,3.5625929591834082
+0,Marca,Personalización,3.8769490489029828
+0,Marca,Retención,3.854949803734868
+0,Marca,Valores organizacionales,5.503492213466594
+0,Mejorar eficiencia,Optimización,2.631764348241059
+0,Mejorar eficiencia,Partes interesadas,2.3151640723208176
+0,Mejorar eficiencia,Personalización,2.217214126766956
+0,Mejorar eficiencia,Retención,1.8158515853655435
+0,Mejorar eficiencia,Valores organizacionales,3.4453029220578766
+0,Optimización,Partes interesadas,3.0007039051220636
+0,Optimización,Personalización,1.865433033416472
+0,Optimización,Retención,1.8969875079578624
+0,Optimización,Valores organizacionales,2.4957330452126
+0,Partes interesadas,Personalización,3.493084914449111
+0,Partes interesadas,Retención,2.4937216816082985
+0,Partes interesadas,Valores organizacionales,4.627139328949118
+0,Personalización,Retención,2.102072168089426
+0,Personalización,Valores organizacionales,1.9402255318158184
+0,Retención,Valores organizacionales,3.1734752308354146
+1,Cambio,Confianza,3.535423065340487
+1,Cambio,Documentación,4.04438796681337
+1,Cambio,Habilidades,4.505470948317833
+1,Cambio,Incertidumbre,5.945759924008432
+1,Cambio,Lealtad,4.303672465736204
+1,Cambio,Planificación,2.885678923780274
+1,Cambio,Posicionamiento,6.04243846229609
+1,Cambio,Procesos,3.47579541231849
+1,Cambio,Protección de la privacidad,5.08377295259941
+1,Confianza,Documentación,2.9285246412066788
+1,Confianza,Habilidades,3.040921837209419
+1,Confianza,Incertidumbre,3.0315932947825823
+1,Confianza,Lealtad,6.904515249174289
+1,Confianza,Planificación,2.6440970071598184
+1,Confianza,Posicionamiento,2.898319699154415
+1,Confianza,Procesos,4.21148103637473
+1,Confianza,Protección de la privacidad,6.340956261859174
+1,Documentación,Habilidades,2.152912690649569
+1,Documentación,Incertidumbre,4.637713421774528
+1,Documentación,Lealtad,3.5200323279769
+1,Documentación,Planificación,1.7815242044113746
+1,Documentación,Posicionamiento,2.435992826878082
+1,Documentación,Procesos,3.211174166797442
+1,Documentación,Protección de la privacidad,2.8634566973474596
+1,Habilidades,Incertidumbre,6.668054955708445
+1,Habilidades,Lealtad,4.359391172660096
+1,Habilidades,Planificación,2.2714930776134885
+1,Habilidades,Posicionamiento,2.2071610457264175
+1,Habilidades,Procesos,3.3032086212423732
+1,Habilidades,Protección de la privacidad,2.3209341295684687
+1,Incertidumbre,Lealtad,5.166701025228485
+1,Incertidumbre,Planificación,2.9218182217674054
+1,Incertidumbre,Posicionamiento,2.857533931072281
+1,Incertidumbre,Procesos,4.457546659926856
+1,Incertidumbre,Protección de la privacidad,6.7167688365569
+1,Lealtad,Planificación,3.362624369604606
+1,Lealtad,Posicionamiento,3.6428778968529323
+1,Lealtad,Procesos,3.344804675448251
+1,Lealtad,Protección de la privacidad,3.8590216052727206
+1,Planificación,Posicionamiento,1.961840437827854
+1,Planificación,Procesos,2.2896291066444214
+1,Planificación,Protección de la privacidad,2.3259097272568474
+1,Posicionamiento,Procesos,2.106165616606206
+1,Posicionamiento,Protección de la privacidad,2.846057544323646
+1,Procesos,Protección de la privacidad,2.325169461838133
+2,Casos de negocio,Costos,2.8524932930751445
+2,Casos de negocio,Costos operativos,2.1067519440527582
+2,Casos de negocio,Datos,3.7813570927595634
+2,Casos de negocio,Gobierno de datos,1.836017897502465
+2,Casos de negocio,Ingresos,2.642437068973923
+2,Casos de negocio,Recursos,4.781661448519222
+2,Casos de negocio,Rediseño,3.5185918876752877
+2,Casos de negocio,Reducción de costos,1.8092615010682784
+2,Casos de negocio,Satisfacción del cliente,2.089448714418621
+2,Casos de negocio,Soporte técnico,2.026744679582408
+2,Casos de negocio,Ventas,3.7492838867776257
+2,Costos,Costos operativos,1.2484036818171065
+2,Costos,Datos,1.6749181509372593
+2,Costos,Gobierno de datos,2.2750655230245957
+2,Costos,Ingresos,2.1631704568369403
+2,Costos,Recursos,3.710496936465309
+2,Costos,Rediseño,3.697090020444908
+2,Costos,Reducción de costos,1.5876589365669922
+2,Costos,Satisfacción del cliente,3.4480573265735774
+2,Costos,Soporte técnico,3.4092161203011453
+2,Costos,Ventas,2.9050953571405125
+2,Costos operativos,Datos,2.2105571612060304
+2,Costos operativos,Gobierno de datos,2.1050776008439005
+2,Costos operativos,Ingresos,2.609242458636984
+2,Costos operativos,Recursos,3.744764631806503
+2,Costos operativos,Rediseño,4.067611678617514
+2,Costos operativos,Reducción de costos,1.336203373467226
+2,Costos operativos,Satisfacción del cliente,2.703293043453814
+2,Costos operativos,Soporte técnico,2.2789524384905038
+2,Costos operativos,Ventas,3.6639211195887738
+2,Datos,Gobierno de datos,1.5876284371560303
+2,Datos,Ingresos,1.8959135857754912
+2,Datos,Recursos,4.146414541442626
+2,Datos,Rediseño,4.773085145633988
+2,Datos,Reducción de costos,2.6209972915662387
+2,Datos,Satisfacción del cliente,3.089127125118669
+2,Datos,Soporte técnico,3.67444126997215
+2,Datos,Ventas,2.400056026907892
+2,Gobierno de datos,Ingresos,2.60152733588668
+2,Gobierno de datos,Recursos,4.83468168576648
+2,Gobierno de datos,Rediseño,4.08350673264089
+2,Gobierno de datos,Reducción de costos,1.859503502151706
+2,Gobierno de datos,Satisfacción del cliente,2.1480298442111283
+2,Gobierno de datos,Soporte técnico,1.9209125717772992
+2,Gobierno de datos,Ventas,3.1739809735710542
+2,Ingresos,Recursos,3.755763312697417
+2,Ingresos,Rediseño,3.6627981169701394
+2,Ingresos,Reducción de costos,2.4476360694127073
+2,Ingresos,Satisfacción del cliente,2.746341927479436
+2,Ingresos,Soporte técnico,2.99828408201986
+2,Ingresos,Ventas,2.228575991421587
+2,Recursos,Rediseño,3.303964830483807
+2,Recursos,Reducción de costos,3.083928053438799
+2,Recursos,Satisfacción del cliente,5.847352409462958
+2,Recursos,Soporte técnico,8.544221816200801
+2,Recursos,Ventas,4.283838392882043
+2,Rediseño,Reducción de costos,2.1918079643068458
+2,Rediseño,Satisfacción del cliente,4.301718953988857
+2,Rediseño,Soporte técnico,4.080711245118041
+2,Rediseño,Ventas,4.033815149694679
+2,Reducción de costos,Satisfacción del cliente,1.9348628424102585
+2,Reducción de costos,Soporte técnico,2.1503841016082292
+2,Reducción de costos,Ventas,3.85901803118457
+2,Satisfacción del cliente,Soporte técnico,1.9413329191823108
+2,Satisfacción del cliente,Ventas,4.221086853040878
+2,Soporte técnico,Ventas,3.998160206599331
+3,Acuerdos,Eficiencia,3.3194484125684007
+3,Acuerdos,Experiencia acumulada,2.135833454541882
+3,Acuerdos,Experiencia del cliente,3.7990059900826947
+3,Acuerdos,Experiencia fluída,3.473628559340344
+3,Acuerdos,Indicadores,2.156138493950199
+3,Acuerdos,Inversión,5.337040512834088
+3,Acuerdos,Satisfacción,3.010131681822579
+3,Acuerdos,Tecnologías avanzadas,2.591452823650884
+3,Eficiencia,Experiencia acumulada,2.086089709742938
+3,Eficiencia,Experiencia del cliente,2.8322142735499254
+3,Eficiencia,Experiencia fluída,2.156959063893571
+3,Eficiencia,Indicadores,3.063726241109373
+3,Eficiencia,Inversión,6.539754020232038
+3,Eficiencia,Satisfacción,4.39942367549851
+3,Eficiencia,Tecnologías avanzadas,2.1807990111733893
+3,Experiencia acumulada,Experiencia del cliente,1.956561784846096
+3,Experiencia acumulada,Experiencia fluída,1.5881499366637863
+3,Experiencia acumulada,Indicadores,2.410532368001899
+3,Experiencia acumulada,Inversión,7.542360915847767
+3,Experiencia acumulada,Satisfacción,2.8722362947439484
+3,Experiencia acumulada,Tecnologías avanzadas,2.026110239523511
+3,Experiencia del cliente,Experiencia fluída,1.711116423557234
+3,Experiencia del cliente,Indicadores,2.9267993435540287
+3,Experiencia del cliente,Inversión,7.967989081942641
+3,Experiencia del cliente,Satisfacción,6.081205499258458
+3,Experiencia del cliente,Tecnologías avanzadas,2.8031521445865875
+3,Experiencia fluída,Indicadores,2.7443994012269384
+3,Experiencia fluída,Inversión,6.249751181781075
+3,Experiencia fluída,Satisfacción,4.067296015648352
+3,Experiencia fluída,Tecnologías avanzadas,2.1599730469923304
+3,Indicadores,Inversión,10.145488331775324
+3,Indicadores,Satisfacción,2.7988309730838385
+3,Indicadores,Tecnologías avanzadas,2.9297410021061907
+3,Inversión,Satisfacción,17.18620566388594
+3,Inversión,Tecnologías avanzadas,6.077213058156316
+3,Satisfacción,Tecnologías avanzadas,3.695660167786667
