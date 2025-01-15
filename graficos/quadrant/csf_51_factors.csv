@@ -1,52 +1,52 @@
 Factor,Cluster,Distancia Promedio (X),Distancia Normalizada (Y)
-CSF1,Estratégico,3.0,0.0
-CSF2,Táctico,3.5,25.0
-CSF3,Operativo,4.0,50.0
-CSF4,Habilitador,4.5,75.0
-CSF5,Estratégico,5.0,100.0
-CSF6,Táctico,3.0,0.0
-CSF7,Operativo,3.5,25.0
-CSF8,Habilitador,4.0,50.0
-CSF9,Estratégico,4.5,75.0
-CSF10,Táctico,5.0,100.0
-CSF11,Operativo,3.0,0.0
-CSF12,Habilitador,3.5,25.0
-CSF13,Estratégico,4.0,50.0
-CSF14,Táctico,4.5,75.0
-CSF15,Operativo,5.0,100.0
-CSF16,Habilitador,3.0,0.0
-CSF17,Estratégico,3.5,25.0
-CSF18,Táctico,4.0,50.0
-CSF19,Operativo,4.5,75.0
-CSF20,Habilitador,5.0,100.0
-CSF21,Estratégico,3.0,0.0
-CSF22,Táctico,3.5,25.0
-CSF23,Operativo,4.0,50.0
-CSF24,Habilitador,4.5,75.0
-CSF25,Estratégico,5.0,100.0
-CSF26,Táctico,3.0,0.0
-CSF27,Operativo,3.5,25.0
-CSF28,Habilitador,4.0,50.0
-CSF29,Estratégico,4.5,75.0
-CSF30,Táctico,5.0,100.0
-CSF31,Operativo,3.0,0.0
-CSF32,Habilitador,3.5,25.0
-CSF33,Estratégico,4.0,50.0
-CSF34,Táctico,4.5,75.0
-CSF35,Operativo,5.0,100.0
-CSF36,Habilitador,3.0,0.0
-CSF37,Estratégico,3.5,25.0
-CSF38,Táctico,4.0,50.0
-CSF39,Operativo,4.5,75.0
-CSF40,Habilitador,5.0,100.0
-CSF41,Estratégico,3.0,0.0
-CSF42,Táctico,3.5,25.0
-CSF43,Operativo,4.0,50.0
-CSF44,Habilitador,4.5,75.0
-CSF45,Estratégico,5.0,100.0
-CSF46,Táctico,3.0,0.0
-CSF47,Operativo,3.5,25.0
-CSF48,Habilitador,4.0,50.0
-CSF49,Estratégico,4.5,75.0
-CSF50,Táctico,5.0,100.0
-CSF51,Operativo,3.0,0.0
+Acuerdos,Estratégico,3.0,0.0
+Adaptación,Táctico,3.5,25.0
+Automatización,Operativo,4.0,50.0
+Cambio,Habilitador,4.5,75.0
+Capacitación,Estratégico,5.0,100.0
+Casos de negocio,Táctico,3.0,0.0
+Clientes,Operativo,3.5,25.0
+Colaboración,Habilitador,4.0,50.0
+Competencias,Estratégico,4.5,75.0
+Comunicación,Táctico,5.0,100.0
+Confianza,Operativo,3.0,0.0
+Conversiones,Habilitador,3.5,25.0
+Costos,Estratégico,4.0,50.0
+Costos operativos,Táctico,4.5,75.0
+Cultura organizacional,Operativo,5.0,100.0
+Datos,Habilitador,3.0,0.0
+Documentación,Estratégico,3.5,25.0
+Eficiencia,Táctico,4.0,50.0
+Ejecución,Operativo,4.5,75.0
+Experiencia acumulada,Habilitador,5.0,100.0
+Experiencia del cliente,Estratégico,3.0,0.0
+Experiencia fluída,Táctico,3.5,25.0
+Gobierno de datos,Operativo,4.0,50.0
+Habilidades,Habilitador,4.5,75.0
+Incertidumbre,Estratégico,5.0,100.0
+Indicadores,Táctico,3.0,0.0
+Ingresos,Operativo,3.5,25.0
+Innovación,Habilitador,4.0,50.0
+Inventarios,Estratégico,4.5,75.0
+Inversión,Táctico,5.0,100.0
+Lealtad,Operativo,3.0,0.0
+Liderazgo,Habilitador,3.5,25.0
+Marca,Estratégico,4.0,50.0
+Mejorar eficiencia,Táctico,4.5,75.0
+Optimización,Operativo,5.0,100.0
+Partes interesadas,Habilitador,3.0,0.0
+Personalización,Estratégico,3.5,25.0
+Planificación,Táctico,4.0,50.0
+Posicionamiento,Operativo,4.5,75.0
+Procesos,Habilitador,5.0,100.0
+Protección de la privacidad,Estratégico,3.0,0.0
+Recursos,Táctico,3.5,25.0
+Rediseño,Operativo,4.0,50.0
+Reducción de costos,Habilitador,4.5,75.0
+Retención,Estratégico,5.0,100.0
+Satisfacción,Táctico,3.0,0.0
+Satisfacción del cliente,Operativo,3.5,25.0
+Soporte técnico,Habilitador,4.0,50.0
+Tecnologías avanzadas,Estratégico,4.5,75.0
+Valores organizacionales,Táctico,5.0,100.0
+Ventas,Operativo,3.0,0.0
